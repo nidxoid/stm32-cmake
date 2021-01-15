@@ -1,0 +1,12 @@
+[submodule "opt/STM32CubeF1"]
+	path = opt/STM32CubeF1
+	url = https://github.com/STMicroelectronics/STM32CubeF1.git
+[submodule "opt/STM32CubeF4"]
+	path = opt/STM32CubeF4
+	url = https://github.com/STMicroelectronics/STM32CubeF4.git
+[submodule "opt/STM32CubeF2"]
+	path = opt/STM32CubeF2
+	url = https://github.com/STMicroelectronics/STM32CubeF2.git
+[submodule "opt/STM32CubeF3"]
+	path = opt/STM32CubeF3
+	url = https://github.com/STMicroelectronics/STM32CubeF3.git
